@@ -1,2 +1,2 @@
-Coursework from CS32 Spring 2017
+CS32 Spring 2017 coursework. 
 Data Structures, Recursion, Algorithms
