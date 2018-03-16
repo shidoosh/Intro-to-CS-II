@@ -1,10 +1,4 @@
-//
-//  Set.cpp
-//  linkedlistpractice
-//
-//  Created by Stefanie Shidoosh on 3/7/18.
-//  Copyright © 2018 Stefanie Shidoosh. All rights reserved.
-//
+
 
 #include "Set.h"
 #include <iostream>

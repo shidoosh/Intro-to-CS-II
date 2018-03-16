@@ -1,12 +1,5 @@
-//
-//  Game.cpp
-//  CS32 - PROJECT 1
-//
-//  Created by Stefanie Shidoosh on 4/6/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
 
-//#include <cstdlib>
+
 #include <iostream>
 #include "Game.h"
 #include "Arena.h"

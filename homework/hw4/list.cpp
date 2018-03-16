@@ -1,10 +1,4 @@
-//
-//  list.cpp
-//  CS32 - HOMEWORK 4
-//
-//  Created by Stefanie Shidoosh on 5/30/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
+
 #include <iostream>
 #include <string>
 #include <vector>

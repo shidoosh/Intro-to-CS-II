@@ -1,10 +1,4 @@
-//
-//  Set.hpp
-//  linkedlistpractice
-//
-//  Created by Stefanie Shidoosh on 3/7/18.
-//  Copyright © 2018 Stefanie Shidoosh. All rights reserved.
-//
+
 
 
 #ifndef Set_h

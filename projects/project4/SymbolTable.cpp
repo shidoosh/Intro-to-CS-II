@@ -1,10 +1,4 @@
 
-//  SymbolTable.cpp
-//  CS32 - PROJECT 4
-//
-//  Created by Stefanie Shidoosh on 6/5/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-
 #include "SymbolTable.h"
 #include <string>
 #include <vector>

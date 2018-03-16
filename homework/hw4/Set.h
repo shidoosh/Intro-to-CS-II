@@ -1,10 +1,4 @@
-//
-//  Header.h
-//  CS32 - HOMEWORK 4
-//
-//  Created by Stefanie Shidoosh on 5/11/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
+
 #ifndef SET_INCLUDED
 #define SET_INCLUDED
 

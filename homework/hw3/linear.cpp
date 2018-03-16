@@ -1,21 +1,4 @@
-//
-//  linear.cpp
-//  CS32 - HOMEWORK 3
-//
-//  Created by Stefanie Shidoosh on 5/4/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
 
-//#include <iostream>
-//#include <string>
-//#include <cassert> 
-//
-//using namespace std;
-
-//bool somePredicate(string s) //is empty
-//{
-//    return s.empty();
-//}
 
 // Return false if the somePredicate function returns false for at
 // least one of the array elements; return true otherwise.

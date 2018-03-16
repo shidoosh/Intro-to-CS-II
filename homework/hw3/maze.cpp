@@ -1,10 +1,4 @@
-//
-//  maze.cpp
-//  CS32 - HOMEWORK 3
-//
-//  Created by Stefanie Shidoosh on 5/8/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
+
 bool pathExists(char maze[][10], int sr, int sc, int er, int ec)
 {
     if(sr == er && sc == ec)

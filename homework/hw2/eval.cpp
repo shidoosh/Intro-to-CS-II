@@ -1,10 +1,3 @@
-//
-//  eval.cpp
-//  CS32 - HOMEWORK 2
-//
-//  Created by Stefanie Shidoosh on 5/1/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
 
 #include <stack>
 #include <string>

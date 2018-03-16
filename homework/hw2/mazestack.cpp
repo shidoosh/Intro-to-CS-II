@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  CS32 - HOMEWORK 2
-//
-//  Created by Stefanie Shidoosh on 4/28/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
+
 
 #include <iostream>
 #include <stack>

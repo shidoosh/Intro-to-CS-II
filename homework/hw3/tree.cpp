@@ -1,10 +1,3 @@
-//
-//  tree.cpp
-//  CS32 - HOMEWORK 3
-//
-//  Created by Stefanie Shidoosh on 5/6/17.
-//  Copyright © 2017 Stefanie Shidoosh. All rights reserved.
-//
 
 // Return the number of ways that all n2 elements of a2 appear
 // in the n1 element array a1 in the same order (though not
