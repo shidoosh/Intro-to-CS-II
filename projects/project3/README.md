@@ -1,5 +1,5 @@
 # Battleship Board Game in C++ 
-This project combines everything learned from the course to create our first 1000+ line project.\ 
+This project combines everything learned from the course to create our first 1000+ line project.\
 
 The objective is to create the Battleship board game. To do so, I implemented the Board class, Player class, and Game class and the associated functions.\
 
