@@ -1,4 +1,4 @@
-# C++ Linked Lists 
+# C++ Templates and Linked Lists 
 The project reviews implementing a class and using linked lists with a template data type to represent the structure. The objective was to implement the Set class using the new linked list structure with respect to the following functions: 
 
 *	Empty: Return true if the set is empty, otherwise false.
